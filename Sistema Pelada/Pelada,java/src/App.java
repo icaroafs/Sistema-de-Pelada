@@ -50,7 +50,7 @@ public class App {
                     break;
                 case "0":
                     System.out.println("Saindo...");
-                    controle = false; // Muda para false para parar o while
+                    controle = false;
                     break;
                 default:
                     System.out.println("Opção inválida!");
